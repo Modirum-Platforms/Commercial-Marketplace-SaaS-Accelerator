@@ -140,8 +140,8 @@
 
 .cm-button {
     color: #fff !important;
-    background-color: #004578;
-    border-color: #2e6da4;
+    background-color: #1F3964;
+    border-color: #27AAE2;
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
@@ -160,8 +160,8 @@
 
 .cm-button-default {
     color: #fff !important;
-    background-color: #004578;
-    border-color: #2e6da4;
+    background-color: #1F3964;
+    border-color: #27AAE2;
     display: inline-block;
     font-weight: 400;
     text-align: center;
@@ -191,7 +191,7 @@
         padding: 12px 20px;
         font-size: 18px;*/
         /*font-weight: bold;*/
-        color: #333;
+        color: #6FCCDD;
     }
 
 .cm-button-default-small {
@@ -202,8 +202,8 @@
 
 .cm-button-error {
     color: #fff;
-    background-color: #004578 !important;
-    border-color: #2e6da4;
+    background-color: #1F3964 !important;
+    border-color: #27AAE2;
     display: inline-block;
     font-weight: 400;
     text-align: center;
